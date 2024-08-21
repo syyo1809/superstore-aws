@@ -1,5 +1,4 @@
 # Superstore-Project
-Instructor : [Ankit Bansal](https://www.youtube.com/@ankitbansal6)<br>
 Dataset : [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)<br>
 &nbsp;<br>
 &nbsp;<br>
